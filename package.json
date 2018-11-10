@@ -1,0 +1,22 @@
+{
+  "name": "morzana-socket",
+  "version": "1.0.0",
+  "description": "모르자나 진우민",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MO-LEU-JA-NA/Morzana-Socket.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MO-LEU-JA-NA/Morzana-Socket/issues"
+  },
+  "homepage": "https://github.com/MO-LEU-JA-NA/Morzana-Socket#readme",
+  "dependencies": {
+    "socket.io": "^2.1.1"
+  }
+}
